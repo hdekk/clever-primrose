@@ -3,8 +3,8 @@ alt_img = ""
 date = 2020-01-31T05:00:00Z
 excerpt = ""
 layout = "page"
-show_in_home_posts = false
-show_in_sidebar = false
+show_in_home_posts = true
+show_in_sidebar = true
 subtitle = "Not particularly interesting"
 title = "My First Post"
 [content_img]
