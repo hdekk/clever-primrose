@@ -28,11 +28,12 @@ sections:
   templates:
   - page
 - type: directory
-  path: content/posts
-  label: Post
+  path: content/blog
+  label: Blog
   create: all
   match: "**/*"
   templates:
+  - post
   - post
 - type: document
   path: content/elements.md
