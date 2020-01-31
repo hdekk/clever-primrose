@@ -12,7 +12,7 @@ enabled = false
 path = ""
 url = "#"
 [sidebar]
-enabled = false
+enabled = true
 side = "left"
 
 +++
